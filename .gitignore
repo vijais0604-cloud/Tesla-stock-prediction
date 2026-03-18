@@ -1,4 +1,6 @@
-Project Title.pdf
-TSLA.csv
-.venv
-.png
+*pdf
+*.csv
+*.venv
+*.png
+*.py
+FEATURE_ENGINEERING_GUIDE.MD
