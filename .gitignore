@@ -3,4 +3,16 @@
 *.venv
 *.png
 *.py
-FEATURE_ENGINEERING_GUIDE.MD
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Large models (optional)
+best_lstm_model/
+*.h5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
