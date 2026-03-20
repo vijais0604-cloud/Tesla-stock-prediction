@@ -2,7 +2,6 @@
 *.csv
 *.venv
 *.png
-*.py
 # Python
 __pycache__/
 *.pyc
